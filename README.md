@@ -1,4 +1,4 @@
-### Thanks for dropping by :octocat:
+### Thanks for dropping by! :octocat:
 
 Nowadays I'm working on improving my online portfolio and profiles! Soon to be job hunting now that things are opening up again after the human malware incident of 2020!
 

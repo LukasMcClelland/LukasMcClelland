@@ -1,6 +1,6 @@
 ### Thanks for dropping by! :octocat:
 
-Nowadays I'm working on improving my online portfolio and profiles! Soon to be job hunting now that things are opening up again after the human malware incident of 2020!
+Nowadays I'm working on improving my online portfolio and profiles! Soon to be job hunting now that things are opening up again after the human malware incident.
 
 I’m currently learning the best practices for creating a personal website. DNS registrars, hosting services (AWS, Digital Ocean, Github Pages, etc.), frontend framework pros and cons, and all of that good stuff. I'm also currently learning the Rust language and how to work with WebAssembly. In my humble opinion, both Rust and WASM are promising and will hopefully continue to increase in popularity! 👍
 

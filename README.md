@@ -1,4 +1,4 @@
-### Hi there 👋
+### Zombies ate my pirate ship ⚓
 
 🔭 I’m currently working on improving my online portfolio and profiles! Soon to be job hunting now that things are opening up again after the human malware incident of 2020!
 

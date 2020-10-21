@@ -1,4 +1,4 @@
-### Thanks for dropping by! :octocat:
+### Thanks for stopping by! :octocat:
 
 Nowadays I'm working on improving my online portfolio and profiles! 
 

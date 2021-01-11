@@ -1,8 +1,6 @@
 ### Thanks for stopping by! :octocat:
 
-Nowadays I'm working on improving my online portfolio and profiles! 
-
-I’m currently learning the best practices for creating a personal website. DNS registrars, hosting services (AWS, Digital Ocean, Github Pages, etc.), frontend framework pros and cons, and all of that good stuff. I'm also currently learning the Rust language and how to work with WebAssembly. Both Rust and WASM seem very promising and will hopefully continue to increase in popularity! 👍
+I recently graduated from Carleton University's Computer Science program and I'm currently looking for work!
 
 <!--
 **LukasMcClelland/LukasMcClelland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Thanks for stopping by! :octocat:
 
-I recently graduated from Carleton University's Computer Science program and I'm currently working at Cisco!
+I recently graduated from Carleton University's Computer Science program and I'm currently working at Cisco.
 
 <!--
 **LukasMcClelland/LukasMcClelland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

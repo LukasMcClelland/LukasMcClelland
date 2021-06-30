@@ -1,7 +1,8 @@
 ### Thanks for stopping by! :octocat:
 
-I recently graduated from Carleton University's Computer Science program and I'm currently working at Cisco.
+On the pyATS team at Cisco Systems.
 
+Carleton University Computer Science alum.
 <!--
 **LukasMcClelland/LukasMcClelland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

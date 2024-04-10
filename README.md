@@ -1,6 +1,6 @@
 ### Thanks for stopping by! :octocat:
 
-Carleton University Computer Science alum.
+
 <!--
 **LukasMcClelland/LukasMcClelland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
